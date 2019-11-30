@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 import Form from './component/Form';
-import Signup from './component/Signup'
+import Select from './component/Select'
 
 function App() {
   return (
     <div className="App">
-      <Signup/>
+      <Select/>
     </div>
   );
 }
